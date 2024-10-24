@@ -3,6 +3,7 @@
 - I am currently pursuing Google's Cybersecurity certificate to supplement my university coursework to prepare for the CompTIA Security+ exam.
 - Pronouns: he/him
 - Email: zef29@drexel.edu
+- LinkedIn: https://www.linkedin.com/in/zaynefoster477/
 - Fun fact: I'm a huge One Piece fan!
 
 <!---
