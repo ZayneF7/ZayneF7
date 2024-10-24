@@ -1,7 +1,7 @@
 - 👋 Greetings, I’m @ZayneF7
-- 👀 I’m interested in algorithms and software design. 
-- 🌱 I’m currently learning web development.
-- 😄 Pronouns: He/Him
+- 👀 I am a junior at Drexel University studying Computer Science. I am particularly interested in software design, algorithms, and cybersecurity. 
+- 🌱 To supplement my university coursework, I am pursuing Google's Cybersecurity certificate to prepare for the CompTIA Security+ exam.
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a huge One Piece fan!
 
 <!---
