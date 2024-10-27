@@ -1,6 +1,6 @@
-- Greetings, I’m @ZayneF7
+- Greetings, I’m @ZayneF7!
 - I am a junior at Drexel University studying Computer Science, with particular interests in software design, algorithms, and cybersecurity. 
-- I am currently pursuing Google's Cybersecurity certificate to supplement my university coursework to prepare for the CompTIA Security+ exam.
+- In addition to my university coursework, I am currently pursuing Google's Cybersecurity certificate to prepare for the CompTIA Security+ exam.
 - Pronouns: he/him
 - Email: zef29@drexel.edu
 - LinkedIn: https://www.linkedin.com/in/zaynefoster477/
